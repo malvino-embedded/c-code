@@ -20,6 +20,6 @@ int main(void)
     printf("\n%3d", b);
     printf("\n-------->");
     printf("\n%3d", out);
-    printf("\n-------->23");
+    printf("\n-------->");
     return 0;
 }
